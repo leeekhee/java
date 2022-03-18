@@ -1,0 +1,12 @@
+package 복습문제1;
+
+public class dafd {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char b= 'B';
+		char c=b++;
+		System.out.println(c);
+	}
+
+}

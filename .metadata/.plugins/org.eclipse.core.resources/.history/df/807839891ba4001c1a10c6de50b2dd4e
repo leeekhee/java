@@ -1,0 +1,18 @@
+package kh;
+
+public class op5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int g=2;
+		if (g==3)
+		{
+		System.out.println("남자");
+		}
+		if (g==4) 
+		{
+		System.out.println("여자");
+		}
+	}
+
+}

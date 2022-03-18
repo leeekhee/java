@@ -1,0 +1,55 @@
+package kh;
+
+public class op5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int g=1;
+		if (g==1||g==3)
+		{
+		System.out.println("남자");
+		}
+		else
+		{
+		g=2;
+	    g=4;
+		System.out.println("여자");
+		}
+		
+		
+		int score=56;
+		if(score>=90) //90~100
+		{
+			System.out.println("수");
+		}
+		else if (score>=80)
+		{
+			System.out.println("우");
+		}
+		else if (score>=70)
+		{
+			System.out.println("미");
+		}
+		else
+		{
+			System.out.println("가");
+		}
+		System.out.println("종료");
+		
+		
+		
+		
+		
+		
+		int sc=60;
+		if(sc>=60)
+		{
+			System.out.println("합격");
+		}
+		else
+		{	
+			System.out.println("불합격");
+		}
+	}
+
+}

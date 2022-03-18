@@ -1,0 +1,15 @@
+package kh;
+
+import java.util.Scanner;
+
+public class op6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=5;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("성별을 입력하세요");
+		int gender=sc.nextInt();
+	}
+
+}

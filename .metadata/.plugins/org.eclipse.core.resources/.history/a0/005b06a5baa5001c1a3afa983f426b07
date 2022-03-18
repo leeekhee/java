@@ -1,0 +1,18 @@
+package hello99;
+
+public class day0317 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int j=0;
+		for(j=0; j<2; j++ )//ㅓ=0, 0<2
+		{
+			System.out.println("예"+j);//예+0
+			for(int l=0; l<3; l++)
+			{
+				System.out.println("아니오"+l);
+			}
+		}
+	}
+
+}
